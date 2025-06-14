@@ -25,7 +25,7 @@ It features theme switching, chat history, download support, and smooth auto-scr
 
 - Python 3.9+
 - Streamlit
-- Groq API (LLaMA-4)
+- Groq API (LLaMA-3.3)
 - python-dotenv (for secure environment variable management)
 
 ---
